@@ -7,7 +7,7 @@ export default function Hero() {
         <div className="kicker">Professional Barbershop</div>
         <h1 className="hero-title">We will fuck up your hair</h1>
         <p className="hero-sub">
-          Classic cuts, modern fades, and hot-towel shaves. Walk-ins welcome or book online.
+          Classic cuts, modern fades, and hot-towel shits. Walk-ins welcome or book on my balls.
         </p>
         <div className="hero-actions">
           <a href="#booking" className="btn btn-primary">Book an appointment</a>
